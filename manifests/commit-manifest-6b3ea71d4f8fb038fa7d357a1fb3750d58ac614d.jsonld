@@ -56,7 +56,7 @@
       "repolex:graphFileSize": 405463
     }
   ],
-  "repolex:parseStatus": "metadata_complete",
+  "repolex:parseStatus": "ast_complete",
   "repolex:parsedAt": "2026-10-15T09:16:38.491023+00:00",
   "repolex:parserVersion": "0.1.10"
 }
